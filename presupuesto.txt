@@ -53,7 +53,7 @@ La Comarca
  -Creacion y desarollo de las paginas diseñadas previamente.
 
  SEO Basic  
- -agregasiond e descripsion
+ -agregasion de descripsion
  -mejorar calidad de imagenes
  -registrar en sitio en github
     
